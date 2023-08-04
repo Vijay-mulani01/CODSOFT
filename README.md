@@ -3,4 +3,7 @@ This is my CODSOFT Internship repository. Checkout my awesome projects assigned 
 ## Tasks 🌟:
 
 ### 🎯 Task-1 : Calculator
-I had been given the task to design a simple calculator that performs the basic arithmatic operations and displays the result.
+This is the simple GUI application developed using python that performs some basic arithmatic operations and displays the result.
+
+### 🎯 Task-2 : To-Do List Application
+A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This is a GUI-based application developed using Python, allowing users to create, update, and track their to-do lists.
